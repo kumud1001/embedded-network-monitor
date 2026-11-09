@@ -1,0 +1,6 @@
+hello
+variables
+*.o
+*.log
+__pycache__/
+.venv/
